@@ -3153,10 +3153,6 @@ input, select, textarea {
 
 		/* Section/Article */
 
-			header br {
-				display: none;
-			}
-
 			header.major h2 {
 				font-size: 2.5em;
 			}
